@@ -3,9 +3,8 @@
 
 - 🌱  I am currently analyzing data, looking for insights, making visualizations and learning new tools. I work on various pet projects.
 
-- 📫 How to reach me **https://t.me/Grecha_ds**
-
-- 📄 Know about my experiences https://spb.hh.ru/resume/32c8ffcdff0bc8556a0039ed1f683653685a45
+- 📫 How to reach me [Telegram](https://t.me/Grecha_ds)
+- 📄 Current CV is available [here](https://spb.hh.ru/resume/32c8ffcdff0bc8556a0039ed1f683653685a45)
 
 <h3 align="left">Languages and Tools:</h3>
 
